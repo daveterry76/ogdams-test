@@ -5,8 +5,8 @@ import { RiArrowDropDownLine, RiArrowDropRightLine } from 'react-icons/ri';
 
 const DataPortals = () => {
     const [open, setOpen] = useState<boolean>(false);
-    const dropRight = useRef<null>(null);
-    const dropDown = useRef<null>(null);
+    const dropRight: any = useRef(null);
+    const dropDown: any = useRef(null);
 
     const toggleOpen = () => {
         setOpen(!open);
