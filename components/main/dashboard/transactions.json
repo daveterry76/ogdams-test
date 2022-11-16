@@ -1,0 +1,39 @@
+[
+    {
+        "id": 1,
+        "time": "7:25pm, 10th Nov",
+        "description": "Glo 1.3 GB sale for 08119047011",
+        "type": "SUCCESS"
+    },
+    {
+        "id": 2,
+        "time": "7:24pm, 10th Nov",
+        "description": "Glo 1.3 GB sale for 08102445937",
+        "type": "FAILED"
+    },
+    {
+        "id": 3,
+        "time": "6:17am, 31st Oct",
+        "description": "Usage charge from 30th Oct 10:22pm for 1 successful transaction(s)",
+        "type": "SUCCESS"
+    },
+    {
+        "id": 4,
+        "time": "11:12pm, 30th Oct",
+        "description": "Phone number removal 2348167857471",
+        "type": "SUCCESS"
+    },
+    {
+        "id": 5,
+        "time": "10:20pm, 30th Oct",
+        "description": "MTN 500MB [SME] sale for 08102445937",
+        "type": "SUCCESS"
+    },
+    {
+        "id": 6,
+        "time": "10:15pm, 30th Oct",
+        "description": "Phone number removal 2348167857471",
+        "type": "SUCCESS"
+    }
+
+]

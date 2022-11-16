@@ -1,0 +1,22 @@
+[
+    {
+        "id": 1,
+        "telecom": "MTN",
+        "image": "https://i.ibb.co/CmBN8CX/mtn.png"
+    },
+    {
+        "id": 2,
+        "telecom": "Airtel",
+        "image": "https://i.ibb.co/HxcNBYV/airtel.png"
+    },
+    {
+        "id": 3,
+        "telecom": "9Mobile",
+        "image": "https://i.ibb.co/4gFzR5g/9mobile.png"
+    },
+    {
+        "id": 4,
+        "telecom": "Glo",
+        "image": "https://i.ibb.co/N7Hkqfq/glo.jpg"
+    }
+]
