@@ -14,8 +14,8 @@ const Form = () => {
         { value: 'glo', label: 'Glo' },
      ];
 
-     const handleSubmit = (e: ChangeEvent) => {
-        e.preventDefault();
+     const handleSubmit = (event: ChangeEvent<HTMLFormElement>): void => {
+        event.preventDefault();
      }
 
   return (
